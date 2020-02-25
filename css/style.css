@@ -1,0 +1,139 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.cabecera{
+  width: 100%;
+  -webkit-box-shadow: 0px 9px 18px -4px rgba(0,0,0,0.92);
+  -moz-box-shadow: 0px 9px 18px -4px rgba(0,0,0,0.92);
+  box-shadow: 0px 9px 18px -4px rgba(0,0,0,0.92);
+  height: 130px;
+}
+.jed{
+  width: 80%;
+  height: 130px;
+  text-align: center;
+  margin: auto;
+}
+.logo{
+  width: 20%;
+  padding-top: 10px;
+  float: left;
+  padding-bottom: 10px;
+  margin: auto;
+}
+.slogan{
+  width: 60%;
+  padding-top: 40px;
+  letter-spacing: 3px;
+  float: left;
+  margin: auto;
+}
+.cart{
+  width: 20%;
+  padding-top: 10px;
+  float: left;
+  margin: auto;
+}
+
+.anuncios{
+  margin-top: 6px;
+}
+
+.contenedor{
+  width: 60%;
+  margin: auto;
+  height: 600px;
+  padding: 30px;
+}
+
+.contenedor img{
+  float: left;
+  margin-right: 15px;
+  width: 700px;
+  height: 500px
+}
+.contenedor aside{
+  margin-top: 30px;
+  color: black;
+  font-size: 20px;
+}
+
+.cart li{
+  list-style: none;
+  letter-spacing: 0.5px;
+  float: left;
+  padding-left: 10px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+
+.social{
+  width: 100%;
+  -webkit-box-shadow: 0px 9px 18px -4px rgba(0,0,0,0.92);
+  -moz-box-shadow: 0px 9px 18px -4px rgba(0,0,0,0.92);
+  box-shadow: 0px 9px 18px -4px rgba(0,0,0,0.92);
+  text-align: center;
+  letter-spacing: 50px;
+}
+
+.btn1{
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 2px;
+  border: none;
+  width: 100px;
+  height: 50px;
+  background-color: #C9C9C9;
+}
+.btn2{
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 2px;
+  border: none;
+  width: 100px;
+  height: 50px;
+  background-color: #2E2E2E;
+}
+
+.botones{
+  position:static;
+  width: 100%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background: #FFF;
+  box-sizing: border-box;
+}
+.botones ul li{
+
+  display: inline;
+  padding: 10px;
+}
+
+.pie{
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: white;
+  margin: auto;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+.images{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.images li{
+  padding-left: 10px;
+  margin-top: 30px;
+  display: inline;
+}
